@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdibaFaiyaz
+- 👋 Hi, I’m Adiba Faiyaz
   
 - 🌱 I’m currently a student at VITv...
   
