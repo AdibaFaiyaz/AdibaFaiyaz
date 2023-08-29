@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adiba Faiyaz
   
-- 🌱 I’m currently a student at VITv...
+- 🌱 I’m currently a student at VITv
   
 - 📫 you can reach me at adibafaiyaz16@gmail.com
 
