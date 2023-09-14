@@ -13,7 +13,7 @@
 
 📫 You can reach me at **adibafaiyaz16@gmail.com**
   </div>
-<h2 align="center"> Stats </h2>
+<h2 align="center"> 🚀 Stats </h2>
 <br>
 <div align="center">
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdibaFaiyaz&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&layout=compact"/>
