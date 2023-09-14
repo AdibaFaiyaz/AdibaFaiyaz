@@ -7,7 +7,7 @@
   <div align="center">
 <!-- 🌱 Student at VITv -->
 
- student   
+🌱 Student at VITv   
  
 🔭 Venturing into the world of **Web Development**
 
