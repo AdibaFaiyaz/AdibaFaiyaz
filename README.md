@@ -15,6 +15,7 @@
 <br>
 <div align="center">
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=AdibaFaiyaz&show_icons=true&theme=radical"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdibaFaiyaz&theme=radical&layout=compact"/>
 </div>
 <!---
 AdibaFaiyaz/AdibaFaiyaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
