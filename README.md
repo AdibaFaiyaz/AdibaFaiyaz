@@ -7,7 +7,8 @@
   <div align="center">
 <!-- 🌱 Student at VITv -->
 
-    
+ student   
+ 
 🔭 Venturing into the world of **Web Development**
 
 📫 You can reach me at **adibafaiyaz16@gmail.com**
