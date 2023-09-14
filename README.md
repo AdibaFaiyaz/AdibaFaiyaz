@@ -6,7 +6,7 @@
   </h1>
   <div align="center">
 🌱 Student at VITv
- <br>   
+    
 🔭 Venturing into the world of **Web Development**
 
 📫 You can reach me at **adibafaiyaz16@gmail.com**
