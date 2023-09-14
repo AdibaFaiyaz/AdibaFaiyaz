@@ -2,7 +2,8 @@
 <!--   <a href="https://git.io/typing-svg"> -->
   <img src="https://readme-typing-svg.demolab.com/?font=Lobster&size=32&center=true&vCenter=true&width=500&height=70&color=FFF&lines=Hi👋I'm Adiba Faiyaz!" />
   </h1>
-  <img align="right" src="https://images.unsplash.com/photo-1496065187959-7f07b8353c55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80" />
+  <img align="right"  width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
+<!--    <img align="right"  width="400" src="https://media.istockphoto.com/id/1351302380/vector/digital-freelancer-woman-developer-launching-digital-product.jpg?s=612x612&w=0&k=20&c=-wioZHfoXGhnUfcF4269drPyv6PZBHXAfCj3NOXmKsk=" /> -->
   <div align="left">
 
     
