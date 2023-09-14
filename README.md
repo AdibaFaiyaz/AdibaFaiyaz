@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Lobster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFF&lines=Hi👋;I'm Adiba Faiyaz!" />
   </h1>
   <div align="center">
-🎓 A student at **VITv**
+🎓 A student at VITv
     
 🔭 Venturing into the world of **Web Development**
   </div>
