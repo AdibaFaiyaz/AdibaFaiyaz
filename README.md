@@ -8,8 +8,10 @@
 🌱 Student at VITv
     
 🔭 Venturing into the world of **Web Development**
+
+📫 You can reach me at **adibafaiyaz16@gmail.com**
   </div>
-- 📫 you can reach me at adibafaiyaz16@gmail.com
+
 
 <!---
 AdibaFaiyaz/AdibaFaiyaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
