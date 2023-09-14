@@ -4,7 +4,6 @@
 <!--   <a href="https://git.io/typing-svg"> -->
   <img src="https://readme-typing-svg.demolab.com/?font=Lobster&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FFF&lines=Hi👋;I'm Adiba Faiyaz!" />
   </h1>
-- 👋 Hi, I’m Adiba Faiyaz
   
 - 🌱 I’m currently a student at VITv
   
