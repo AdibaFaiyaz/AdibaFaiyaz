@@ -1,5 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AdibaFaiyaz.AdibaFaiyaz" />
 
+<h1 align="center">
+<!--   <a href="https://git.io/typing-svg"> -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋;I'm Adiba Faiyaz!" />
+  </h1>
 - 👋 Hi, I’m Adiba Faiyaz
   
 - 🌱 I’m currently a student at VITv
