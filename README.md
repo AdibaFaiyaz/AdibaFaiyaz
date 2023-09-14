@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AdibaFaiyaz.AdibaFaiyaz&left_text=MyPageVisitors" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AdibaFaiyaz.AdibaFaiyaz" />
 
 - 👋 Hi, I’m Adiba Faiyaz
   
