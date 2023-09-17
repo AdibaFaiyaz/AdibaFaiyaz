@@ -8,7 +8,7 @@
   <div align="left">
 
     
-🌱 Student at VITv   
+🌱 Student at **VITv**  
  
 🔭 Venturing into the world of **Web Development**
 
