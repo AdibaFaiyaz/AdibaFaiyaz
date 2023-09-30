@@ -28,7 +28,8 @@
 
 <img align="center" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=AdibaFaiyaz&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&bg_color=0d1117" alt="adibafaiyaz" />
 </div>
-https://github.com/AdibaFaiyaz/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
+<img scr="https://github.com/AdibaFaiyaz/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg"/>
+
 <!---
 AdibaFaiyaz/AdibaFaiyaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
