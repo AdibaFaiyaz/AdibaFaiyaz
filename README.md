@@ -30,6 +30,8 @@
 
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/>
+
+<img src="https://github.com/<seu AdibaFaiyaz>/<seu AdibaFaiyaz>/blob/output/github-contribution-grid-snake2.svg"/>
 <!--- <img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=ea89f0&line=fd8aff&point=ffffff&area=true&hide_border=true"/> pink --->
 
 <!---<img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=ffffff&line=26a641&point=ffffff&area=true&hide_border=true"/> green--->
