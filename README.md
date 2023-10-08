@@ -31,9 +31,7 @@
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/>
 
-<img src="https://raw.githubusercontent.com/AdibaFaiyaz/AdibaFaiyaz/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 <!--- <img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=ea89f0&line=fd8aff&point=ffffff&area=true&hide_border=true"/> pink --->
