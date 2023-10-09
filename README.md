@@ -31,7 +31,7 @@
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/>
 
-<!--- ![](https://github-profile-trophy.vercel.app/?username=AdibaFaiyaz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) ---> trophies
+<!--- ![](https://github-profile-trophy.vercel.app/?username=AdibaFaiyaz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)  trophies ---> 
 
 <!---  <img width=500  src="https://github-contributor-stats.vercel.app/api?username=AdibaFaiyaz&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&limit=5&combine_all_yearly_contributions=true" alt="adibafaiyaz" /> --->
 
