@@ -36,6 +36,7 @@
 
 <img width=350  src="https://github-readme-stats.vercel.app/api?username=AdibaFaiyaz&show_icons=true&locale=en&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast" alt="adibafaiyaz" />
 
+
 <img  width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=AdibaFaiyaz&hide_border=true&title_color=fff&show_icons=true&theme=github-dark-blue&bg_color=0d1117" alt="adibafaiyaz" />
 
 
@@ -54,7 +55,8 @@
 
 <!---<img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=ffffff&line=26a641&point=ffffff&area=true&hide_border=true"/> green--->
 
-<!--- <img src="https://github-profile-trophy.vercel.app/?username=AdibaFaiyaz&theme=highcontrast"/> --->
+ <!--- <img src="https://github-profile-trophy.vercel.app/?username=AdibaFaiyaz&theme=highcontrast"/> --->
+<!--- <img src="https://github-profile-trophy.vercel.app/?username=AdibaFaiyaz&title=Commits,Repositories&theme=darkhub"/> --->
 <!--- <img src="https://readme-jokes.vercel.app/api"/> --->
 </div>
 
