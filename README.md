@@ -1,6 +1,7 @@
 <h1 align="center">
 <!--   <a href="https://git.io/typing-svg"> -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Lobster&size=32&center=true&vCenter=true&width=500&height=70&color=FFF&lines=Hi👋I'm Adiba Faiyaz!" />
+  Hi👋I'm Adiba Faiyaz!
+   <!-- <img src="https://readme-typing-svg.demolab.com/?font=Lobster&size=32&center=true&vCenter=true&width=500&height=70&color=FFF&lines=Hi👋I'm Adiba Faiyaz!" /> -->
   </h1>
   <!--<img align="right"  width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" /> -->
   <!--<img align="right"  width="400" src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif" /> -->
