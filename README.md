@@ -7,10 +7,11 @@
 <!-- <img align="right"  width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" /> -->
   <div align="center">
 
-    
-🌱 **Student**  
- 
-🔭 Venturing into the world of **Web Development**
+📝 I am a pre-final year student at **VIT'v**
+
+🔭 I’m currently working on **Backend Development**
+
+🌱 I’m currently learning **Data Structures**
 
 📫 You can reach me at **adibafaiyaz16@gmail.com**
   </div>
