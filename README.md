@@ -6,6 +6,8 @@
 <!--    <img align="right"  width="350" src="https://media.istockphoto.com/id/1351302380/vector/digital-freelancer-woman-developer-launching-digital-product.jpg?s=612x612&w=0&k=20&c=-wioZHfoXGhnUfcF4269drPyv6PZBHXAfCj3NOXmKsk=" /> -->
 <!-- <img align="right"  width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" /> -->
   <div align="center">
+<h2> ✨ About Me</h2>
+<div align="left">
 
 📝 I am a pre-final year student at **VIT'v**
 
@@ -14,6 +16,7 @@
 🌱 I’m currently learning **Data Structures**
 
 📫 You can reach me at **adibafaiyaz16@gmail.com**
+</div>
   </div>
   
 <h2 align="center" color=FFF>💻Languages & Tools </h2>
