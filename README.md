@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" color=FFF>
 <!--   <a href="https://git.io/typing-svg"> -->
   Hi👋I'm Adiba Faiyaz!
    <!-- <img src="https://readme-typing-svg.demolab.com/?font=Lobster&size=32&center=true&vCenter=true&width=500&height=70&color=FFF&lines=Hi👋I'm Adiba Faiyaz!" /> -->
