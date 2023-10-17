@@ -55,6 +55,7 @@
 
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/>
+<!--- <img src="https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=AdibaFaiyaz&rank_icon=progress" /> ---> 
 
 <!--- ![](https://github-profile-trophy.vercel.app/?username=AdibaFaiyaz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)  trophies ---> 
 
