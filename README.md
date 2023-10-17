@@ -64,8 +64,6 @@
 <!--- ![](https://github-contributor-stats.vercel.app/api?username=AdibaFaiyaz&limit=5&theme=dark&combine_all_yearly_contributions=true) --->
 
 
-<!--- <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" alt="logo" width="40"> vs code icon --->
-
 <!--- <img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=ea89f0&line=fd8aff&point=ffffff&area=true&hide_border=true"/> pink --->
 
 <!---<img  src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=ffffff&line=26a641&point=ffffff&area=true&hide_border=true"/> green--->
