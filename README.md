@@ -5,7 +5,7 @@
   </h1>
   <!--<img align="right"  width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" /> -->
   <!--<img align="right"  width="400" src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif" /> -->
-    <img align="right"  width="330" src="https://media.istockphoto.com/id/1351302380/vector/digital-freelancer-woman-developer-launching-digital-product.jpg?s=612x612&w=0&k=20&c=-wioZHfoXGhnUfcF4269drPyv6PZBHXAfCj3NOXmKsk=" />  
+    <img align="right"  width="420" src="https://media.istockphoto.com/id/1351302380/vector/digital-freelancer-woman-developer-launching-digital-product.jpg?s=612x612&w=0&k=20&c=-wioZHfoXGhnUfcF4269drPyv6PZBHXAfCj3NOXmKsk=" />  
   <div align="center">
 <h2> ✨ About Me</h2>
 <div align="left">
@@ -22,9 +22,12 @@
 
   <div align="center">
     <h2>Accounts</h2>
-    <div align = "left">
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sai-sreekar) 
-      ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadiba-faiyaz-623b87294%2F?style=flat-square&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=blue&color=blue)
+    <div align = "center">
+<!--       ## 🌐 Accounts: -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adiba-faiyaz-623b87294/) 
+[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=c42abb&logo=Instagram&logoColor=white&label=)](https://instagram.com/_adibafaiyaz_?igshid=OGQ5ZDc2ODk2ZA==) 
+[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5562ea&logo=Discord&logoColor=white&label=)](https://discord.com/channels/@me) 
     </div>
   </div>
   
