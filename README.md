@@ -38,7 +38,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,css,html,js,figma,mongodb,expressjs,react,nodejs,vite,python,c,cpp,vscode" />
-    <img src="https://skillicons.dev/icons?i=r,gcp,replit,vercel,github,git,mysql,matlab" />
+    <img src="https://skillicons.dev/icons?i=r,gcp,replit,vercel,github,git,mysql,matlab,materialui" />
 <!--     <img src="https://skillicons.dev/icons?i=vscode,r,gcp,vercel,github,git" /> -->
   </a>
 </p>
