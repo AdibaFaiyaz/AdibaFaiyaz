@@ -21,15 +21,16 @@
   </div>
 
   <div align="center">
-    <h2>Accounts</h2>
+    <h2>🌐 Know Me</h2>
     <div align = "center">
 <!--       ## 🌐 Accounts: -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adiba-faiyaz-623b87294/) 
-[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=c42abb&logo=Instagram&logoColor=white&label=)](https://instagram.com/_adibafaiyaz_?igshid=OGQ5ZDc2ODk2ZA==) 
-[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5562ea&logo=Discord&logoColor=white&label=)](https://discord.com/channels/@me) 
-    </div>
-  </div>
+[![Resume](https://img.shields.io/badge/Resume-63a675?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1oYak0D20RpNjA5vLGrTRBYycEypLl-vj/view?usp=sharing)
+<!--[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=c42abb&logo=Instagram&logoColor=white&label=)](https://instagram.com/_adibafaiyaz_?igshid=OGQ5ZDc2ODk2ZA==) 
+[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5562ea&logo=Discord&logoColor=white&label=)](https://discord.com/channels/@me) --> 
+</div>
+</div>
   
 <h2 align="center" color=FFF>💻Languages & Tools </h2>
 <!-- <p align="center"><a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="40px" height="40px"></a>
