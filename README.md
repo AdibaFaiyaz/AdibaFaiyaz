@@ -19,6 +19,14 @@
 📫 You can reach me at **adibafaiyaz16@gmail.com**
 </div>
   </div>
+
+  <div align="center">
+    <h2>Accounts</h2>
+    <div align = "left">
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sai-sreekar) 
+      ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadiba-faiyaz-623b87294%2F?style=flat-square&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=blue&color=blue)
+    </div>
+  </div>
   
 <h2 align="center" color=FFF>💻Languages & Tools </h2>
 <!-- <p align="center"><a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="40px" height="40px"></a>
