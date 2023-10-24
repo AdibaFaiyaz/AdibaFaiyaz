@@ -26,7 +26,7 @@
 <!--       ## 🌐 Accounts: -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adiba-faiyaz-623b87294/) 
-[![Resume](https://img.shields.io/badge/Resume-63a675?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1oYak0D20RpNjA5vLGrTRBYycEypLl-vj/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-478056?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://drive.google.com/file/d/1T27V5sMwjbXwRWeqPz7340RD4Y_21QCu/view?usp=sharing)
 <!--[![Instagram](https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=c42abb&logo=Instagram&logoColor=white&label=)](https://instagram.com/_adibafaiyaz_?igshid=OGQ5ZDc2ODk2ZA==) 
 [![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5562ea&logo=Discord&logoColor=white&label=)](https://discord.com/channels/@me) --> 
 </div>
