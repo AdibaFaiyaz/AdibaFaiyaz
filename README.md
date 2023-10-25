@@ -66,9 +66,10 @@
 
 <img  width=365 src="https://github-readme-streak-stats.herokuapp.com/?user=AdibaFaiyaz&hide_border=true&title_color=fff&show_icons=true&theme=github-dark-blue&bg_color=0d1117" alt="adibafaiyaz" />
 
+<img  width=850 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibaFaiyaz&theme=transparent&title_color=fff"/>
 
 <img  width=1100 src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/>
-<img  width=850 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibaFaiyaz&theme=transparent&title_color=fff"/>
+
   
 
 
