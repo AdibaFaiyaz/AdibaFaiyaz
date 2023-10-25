@@ -58,7 +58,6 @@
 <h2 align="center" color=FFF>📈 Stats </h2>
 <br>
 <div align="center">
-  <img  width=1000 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibaFaiyaz&theme=transparent&title_color=fff"/>
   
   <img width=365  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdibaFaiyaz&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&layout=compact"/>
 
@@ -69,6 +68,8 @@
 
 
 <img  width=1100 src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/>
+<img  width=800 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibaFaiyaz&theme=transparent&title_color=fff"/>
+  
 
 
 <!--- <img  width=365 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdibaFaiyaz&theme=transparent&exclude=exclude"/> ---> 
