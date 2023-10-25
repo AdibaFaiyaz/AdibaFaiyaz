@@ -59,12 +59,12 @@
 <br>
 <div align="center">
   
-  <img width=365  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdibaFaiyaz&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&layout=compact"/>
+  <img width=375  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdibaFaiyaz&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast&layout=compact"/>
 
-<img width=365  src="https://github-readme-stats.vercel.app/api?username=AdibaFaiyaz&show_icons=true&locale=en&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast" alt="adibafaiyaz" />
+<img width=375  src="https://github-readme-stats.vercel.app/api?username=AdibaFaiyaz&show_icons=true&locale=en&bg_color=0d1117&hide_border=true&title_color=fff&show_icons=true&theme=highcontrast" alt="adibafaiyaz" />
 
 
-<img  width=365 src="https://github-readme-streak-stats.herokuapp.com/?user=AdibaFaiyaz&hide_border=true&title_color=fff&show_icons=true&theme=github-dark-blue&bg_color=0d1117" alt="adibafaiyaz" />
+<img  width=375 src="https://github-readme-streak-stats.herokuapp.com/?user=AdibaFaiyaz&hide_border=true&title_color=fff&show_icons=true&theme=github-dark-blue&bg_color=0d1117" alt="adibafaiyaz" />
 
 <img  width=780 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibaFaiyaz&theme=transparent&title_color=fff"/>
 
