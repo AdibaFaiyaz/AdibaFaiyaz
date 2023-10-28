@@ -8,7 +8,7 @@
     <img align="right"  width="390" src="https://media.istockphoto.com/id/1351302380/vector/digital-freelancer-woman-developer-launching-digital-product.jpg?s=612x612&w=0&k=20&c=-wioZHfoXGhnUfcF4269drPyv6PZBHXAfCj3NOXmKsk=" />  
   <div align="center">
 <h2> ✨ About Me</h2>
-<div align="center">
+<div align="left">
 
 📝 I am a pre-final year student at **VIT'v**
 
