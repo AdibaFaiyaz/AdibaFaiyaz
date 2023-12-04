@@ -69,7 +69,7 @@
 
 <img  width=780 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdibaFaiyaz&theme=transparent&title_color=fff"/>
 
-<img  width=1100 src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/>
+<!--- <img  width=1100 src="https://github-readme-activity-graph.vercel.app/graph?username=AdibaFaiyaz&bg_color=0d1117&color=58c6e5&line=58c6e5&point=ffffff&area=true&hide_border=true"/> --->
 
 <div align='center'>&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=AdibaFaiyaz&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Experience,Reviews&theme=darkhub"/>
