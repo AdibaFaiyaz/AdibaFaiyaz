@@ -10,7 +10,7 @@
 <h2 align="center"> ✨ About Me</h2>
 <div align="center">
 
-📝 I am a pre-final year student at **VIT'v**
+📝 I am a final year student at **VIT'v**
 
 🔭 I’m currently working on **Backend Development**
 
