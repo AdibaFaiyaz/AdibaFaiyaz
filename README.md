@@ -14,7 +14,7 @@
 
 🔭 I’m currently working on **Backend Development**
 
-🌱 I’m currently learning **Data Structures**
+🌱 Learning **Data Structures**
 
 📫 You can reach me at **adibafaiyaz16@gmail.com**
 </div>
